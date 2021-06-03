@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateEnvironmentModelsTable extends Migration
+class CreateDfItemXtiposTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,9 @@ class CreateEnvironmentModelsTable extends Migration
      */
     public function up()
     {
-        Schema::create('environment_models', function (Blueprint $table) {
-            $table->id();
-            $table->text('modelo');
-            $table->timestamps();
+        Schema::create('df_item_xtipos', function (Blueprint $table) {
+            $table->foreignId('item_id')->references('id')->on('df_items');
+            $table->foreignId('tipo_id')->references('id')->on('df_item_tipos');
         });
     }
 
@@ -27,6 +26,6 @@ class CreateEnvironmentModelsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('environment_models');
+        Schema::dropIfExists('df_item_xtipos');
     }
 }

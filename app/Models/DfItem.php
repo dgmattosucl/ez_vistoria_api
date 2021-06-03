@@ -5,7 +5,10 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class ItemCondition extends Model
+class DfItem extends Model
 {
     use HasFactory;
+
+
+    protected $table = "df_items";
 }

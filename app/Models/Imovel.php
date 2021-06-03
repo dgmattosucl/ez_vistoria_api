@@ -5,12 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class EnvironmentGroup extends Model
+class Imovel extends Model
 {
     use HasFactory;
-
-
-    public function environments(){
-        return $this->hasMany(Environment::class);
-    }
 }
