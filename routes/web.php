@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/documentacao', [\App\Http\Controllers\DocController::class,'index']);
+Route::get('/sobre', [\App\Http\Controllers\SobreController::class,'index']);
+Route::get('/importacomodos', [\App\Http\Controllers\Controller::class,'ImportaComodos']);
+
+//Auth::routes();
+
+

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateEnvironmentsTable extends Migration
+class CreateDfItemsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,9 @@ class CreateEnvironmentsTable extends Migration
      */
     public function up()
     {
-        Schema::create('environments', function (Blueprint $table) {
+        Schema::create('df_items', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('building_id');
-            $table->string('nome');
+            $table->string('nome',120)->unique();
             $table->timestamps();
         });
     }
@@ -28,6 +27,6 @@ class CreateEnvironmentsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('environments');
+        Schema::dropIfExists('df_items');
     }
 }

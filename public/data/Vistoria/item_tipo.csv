@@ -1,0 +1,125 @@
+﻿id;descricao;ativo;atualizacao
+1;Em Madeira;1;2018-03-28 11:46:59.430
+2;Em Gesso;1;2018-03-28 11:46:10.290
+3;Em Alumínio;1;2018-03-28 11:45:30.383
+4;Em Granito;1;2018-03-28 11:46:48.197
+5;Em Mármore;1;2018-03-28 11:47:28.353
+6;Em PVC;1;2018-02-06 14:09:22.483
+7;Em Madeira Envernizada;1;2018-03-28 11:47:19.307
+8;Em Aço;1;2018-03-28 11:45:22.380
+9;Em Plástico;1;2018-03-28 11:47:40.757
+10;Em Cimento;1;2018-03-28 11:45:39.697
+11;Em Fibra;1;2018-03-28 11:45:59.353
+12;Em Vidro;1;2018-03-28 11:47:55.717
+13;Em Ferro;1;2018-03-28 11:45:50.057
+14;Com Tampão;1;2018-03-28 11:46:27.777
+15;Sem Tampão;1;2018-03-28 11:48:09.943
+16;Arandela;1;2018-02-06 14:13:30.903
+17;Bocal Embutido;1;2018-03-28 11:46:20.180
+18;Calha;1;2018-02-06 14:13:50.343
+19;Globo;1;2018-02-06 14:13:56.130
+20;Luminária;1;2018-02-06 14:14:05.507
+21;Lustre;1;2018-02-06 14:14:19.890
+22;Spot;1;2018-02-06 14:14:26.160
+23;Plafonier;1;2018-02-06 14:14:33.057
+24;HDL;1;2018-02-06 14:15:01.200
+28;Simples;1;2018-02-06 14:16:30.277
+29;Duplo;1;2018-02-06 14:16:36.033
+30;Triplo;1;2018-02-06 14:16:47.390
+31;Simples Conjugado;1;2018-03-28 11:48:21.067
+32;Duplo Conjugado;1;2018-03-28 11:46:37.870
+33;Outros;1;2018-04-02 10:26:48.663
+34;Em Inox;1;2018-03-28 11:44:43.287
+35;Esquadria de Alumínio;1;2018-04-02 10:36:45.720
+36;Em Blindex;1;2018-03-28 11:45:16.437
+37;Esquadria de Madeira;1;2018-03-28 11:50:47.447
+38;Esquadria de Madeira Envernizada;1;2018-03-28 11:51:37.510
+39;Esquadria de Metal;1;2018-03-28 11:52:01.377
+40;Com parte em Alvenaria e parte com Vidros e Alumínio;1;2018-03-28 11:57:38.020
+41;Em Alvenaria com acabamento em Mármore;1;2018-03-28 11:56:29.033
+42;Em Alvenaria com acabamento em Granito;1;2018-03-28 11:57:01.467
+43;Azulejada até o Teto;1;2018-03-28 11:58:20.827
+44;Azulejada até o Meio;1;2018-03-28 11:58:32.060
+45;Pastilhada;1;2018-03-28 11:58:49.547
+46;Com Pintura Nova;1;2018-03-28 11:59:55.070
+47;Com Pintura em Uso;1;2018-03-28 12:00:15.413
+48;Com Pintura em Uso na cor Branca;1;2018-03-28 12:18:15.350
+49;Com Pintura Nova na cor Branca;1;2018-03-28 12:18:28.953
+50;Em Ardósia;1;2018-03-29 10:01:23.770
+51;Em Bege Bahia;1;2018-03-29 10:01:34.547
+52;Em Bloquete;1;2018-03-29 10:01:54.220
+53;Em Carpete;1;2018-03-29 10:02:02.723
+54;Em Cerâmica;1;2018-03-29 10:02:13.957
+55;Em Madeira Corrida ;1;2018-03-29 10:03:10.913
+56;Em Pavifléx;1;2018-03-29 10:03:50.367
+57;Em Pedra São Tomé;1;2018-03-29 10:04:06.730
+58;Em Taco;1;2018-03-29 10:04:32.673
+59;Laminado;1;2018-03-29 10:04:38.600
+60;Em Porcelanato;1;2018-03-29 10:05:53.203
+61;Com Espelho;1;2018-03-29 10:09:07.353
+62;Sem Espelho;1;2018-03-29 10:09:34.543
+63;Com Fio Exposto;1;2018-03-29 10:09:44.917
+64;Em PVC Sanfonado;1;2018-03-29 10:27:55.440
+65;Em Madeira Envernizada com Maçaneta Completa;1;2018-03-29 10:28:26.297
+66;Em Madeira Envernizada com Pintura em uso e Maçaneta Completa;1;2018-03-29 10:29:00.323
+67;Em Madeira com Pintura nova e Maçaneta Completa;1;2018-03-29 10:29:29.993
+68;Em Plástico Cromado;1;2018-03-29 10:30:15.047
+69;Em Acrílico;1;2018-03-29 10:31:05.157
+70;Em Ferro com Plástico;1;2018-03-29 10:31:16.810
+71;Em Ferro e em Inox;1;2018-03-29 10:31:28.277
+72;Sem Espelho e Com Fio Exposto;1;2018-03-29 10:33:50.567
+73;Com Registro;1;2018-03-29 10:34:25.043
+74;Cromado;1;2018-03-29 10:39:11.107
+79;Com Espelho e com Fio Exposto;1;2018-03-29 10:42:32.650
+80;Em Metal;1;2018-03-29 10:43:25.847
+83;Rebaixado em Gesso;1;2018-03-29 10:52:20.957
+84;Rebaixado em Madeira;1;2018-03-29 10:52:31.703
+85;Rebaixado em PVC;1;2018-03-29 10:52:46.337
+86;Simples com Espelho;1;2018-03-29 10:54:24.557
+87;Simples sem Espelho;1;2018-03-29 10:54:33.307
+88;Duplo com Espelho;1;2018-03-29 10:54:43.730
+89;Duplo sem Espelho;1;2018-03-29 10:54:53.340
+90;Triplo com Espelho;1;2018-03-29 10:55:05.397
+91;Triplo sem Espelho;1;2018-03-29 10:55:19.063
+94;Em Cobre;1;2018-03-29 11:02:48.653
+97;Em Louça;1;2018-03-29 11:07:55.700
+98;Em Cortina;1;2018-03-29 11:08:59.847
+99;Em Divisória de Granito;1;2018-03-29 11:09:23.197
+100;Em Divisória de Mármore;1;2018-03-29 11:09:35.087
+101;Em Blindex com Esquadria de Alumínio;1;2018-03-29 11:10:14.833
+102;Corona;1;2018-03-29 11:11:54.920
+103;Entrada com Tampão;1;2018-03-29 11:12:24.870
+104;Fame;1;2018-03-29 11:12:33.827
+105;Gorducha;1;2018-03-29 11:12:55.307
+106;Lorenzetti;1;2018-03-29 11:13:53.790
+107;Ducha Fria;1;2018-03-29 11:14:00.157
+108;Em Plástico com Inox;1;2018-03-29 11:15:31.680
+109;Caixa Acoplada em Louça;1;2018-03-29 11:15:44.520
+110;Com Moldura;1;2018-03-29 11:17:09.040
+111;Sem Moldura;1;2018-03-29 11:17:14.797
+112;Com Manchas e Moldura;1;2018-03-29 11:17:26.060
+113;Com Manchas e sem Moldura;1;2018-03-29 11:18:03.780
+114;Em Alvenaria;1;2018-03-29 11:24:50.420
+115;Em Louça Embutida;1;2018-03-29 11:25:27.267
+116;Em Poliester;1;2018-03-29 11:31:24.907
+117;Em PVC com Assento Almofadado;1;2018-03-29 11:31:52.877
+119;Em Louça com Manchas Internas;1;2018-03-29 11:34:23.390
+121;Com Bloco de Vidro;1;2018-03-29 11:47:52.003
+122;Revestida em Cerâmica;1;2018-03-29 11:48:27.010
+127;Em Amianto;1;2018-03-29 12:02:53.687
+128;Em Telha Colonial;1;2018-03-29 12:03:03.330
+129;Em Telhão;1;2018-03-29 12:03:11.177
+130;Em Zinco;1;2018-03-29 12:03:17.853
+132;Intelbrás;1;2018-03-29 12:19:45.217
+133;Maxcon;1;2018-03-29 12:19:50.770
+134;Thevear;1;2018-03-29 12:19:59.583
+135;Sem Marca;1;2018-03-29 12:20:09.523
+136;Em Tecido;1;2018-03-29 14:32:59.140
+137;Ventilador de Teto com Abajur;1;2018-03-29 14:37:11.257
+138;Ventilador de Teto sem Abajur;1;2018-03-29 14:37:22.897
+139;Laminada;1;2018-03-29 15:17:11.220
+140;Esquadria de Ferro;1;2018-04-02 10:37:26.140
+145;Encanado;1;2018-04-02 11:50:44.260
+146;Em Plástico Sanfonado;1;2018-04-02 11:54:38.310
+147;Em Porcelana;1;2018-04-02 11:55:18.280
+148;Em Resina;1;2018-04-02 11:55:42.820

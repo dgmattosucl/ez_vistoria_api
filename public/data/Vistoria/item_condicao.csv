@@ -1,0 +1,8 @@
+﻿id;descricao;ativo;atualizacao
+1;Em bom estado;1;NULL
+2;Com defeito;1;NULL
+3;Com vazamento ;1;2018-04-02 15:33:39.733
+4;Em perfeito estado;1;2018-04-02 15:33:59.110
+5;Sem vazamento;1;2018-04-02 15:33:46.613
+6;Com infiltração;1;2018-04-03 09:50:34.763
+7;Com rachaduras;1;2018-04-03 09:43:13.680

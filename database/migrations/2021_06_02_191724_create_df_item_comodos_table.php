@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateItemPicturesTable extends Migration
+class CreateDfItemComodosTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,9 @@ class CreateItemPicturesTable extends Migration
      */
     public function up()
     {
-        Schema::create('item_pictures', function (Blueprint $table) {
-            $table->id();
-            $table->foreignId('item_id');
-            $table->string('arquivo',150);
-            $table->timestamps();
+        Schema::create('df_item_comodos', function (Blueprint $table) {
+            $table->foreignId('item_id')->references('id')->on('df_items');
+            $table->foreignId('comodo_id')->references('id')->on('df_comodos');
         });
     }
 
@@ -28,6 +26,6 @@ class CreateItemPicturesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('item_pictures');
+        Schema::dropIfExists('df_item_comodos');
     }
 }
